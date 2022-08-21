@@ -1,7 +1,7 @@
 <h1 align="center">Hello, we're Astro.</h1>
 <h3 align="center">Astro offers a number of services, to do with game cheats and reverse engineering.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astro-services&label=Profile%20views&color=0e75b6&style=flat" alt="astro-services" /> </p>
-(img align="right" alt="Coding" width="400" src="https://acegif.com/wp-content/uploads/gifs/starfall-gif-63.gif")
+<img align="right" alt="Coding" width="400" src="https://acegif.com/wp-content/uploads/gifs/starfall-gif-63.gif")
 
 - 🔭 I’m currently working on **Astro Loader**
 
