@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astro-services&label=Profile%20views&color=0e75b6&style=flat" alt="astro-services" /> </p>
 <img align="right" alt="Coding" width="400" src="https://acegif.com/wp-content/uploads/gifs/starfall-gif-63.gif")
 
-- 🔭 I’m currently working on **Astro Loader**
+- 🔭 I’m currently working on **New CS2 Project**
 
-- 🌱 I’m currently learning **Assembly x86-64 Non Att.**
+- 🌱 I’m currently learning **Assembly**
 
-- We're looking for a certain skill set of people. [Apply here](https://forms.gle/6go1UdvUCnarCdc4A)
+- We're looking for a certain skill set of people. [Applications Closed](https://forms.gle/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/astro-services](https://github.com/astro-services)
 
