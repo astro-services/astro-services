@@ -13,7 +13,7 @@
 
 - 🤖 How to reach me **ry6335**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:(https://discord.gg/UTbsE6tD9q)</h3>
 <p align="left">
 </p>
 
