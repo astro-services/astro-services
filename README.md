@@ -1,17 +1,17 @@
-<h1 align="center">Hello, we're Astro.</h1>
+<h1 align="center">Hello, We're Astro.</h1>
 <h3 align="center">Astro offers a number of services, to do with game cheats and reverse engineering.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astro-services&label=Profile%20views&color=0e75b6&style=flat" alt="astro-services" /> </p>
 <img align="right" alt="Coding" width="400" src="https://acegif.com/wp-content/uploads/gifs/starfall-gif-63.gif")
 
-- 🔭 I’m currently working on **New CS2 Project**
+- 🔭 I’m currently working on **New CS2 Project!**
 
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently  **Decompiling...**
 
-- We're looking for a certain skill set of people. [Applications Closed](https://forms.gle/)
+-  [Applications Closed](https://forms.gle/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/astro-services](https://github.com/astro-services)
 
-- 🤖 How to reach me **ry#6335**
+- 🤖 How to reach me **ry6335**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
