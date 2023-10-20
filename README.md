@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/astro-services](https://github.com/astro-services)
 
-- 🤖 How to reach me **ry6335**
-
-<h3 align="left">Connect with me:(https://discord.gg/UTbsE6tD9q)</h3>
+- 🤖 How to reach me **ry6335** discord!
 <p align="left">
 </p>
 
