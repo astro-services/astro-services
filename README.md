@@ -3,11 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astro-services&label=Profile%20views&color=0e75b6&style=flat" alt="astro-services" /> </p>
 
 - 🔭 I’m currently working on **Aventus Spoof**
-
-- 🌱 I’m currently  **Decompiling...**
-
--  [Applications Closed](https://forms.gle/)
-
+- 
 - 👨‍💻 [Check Out Eventus Free HWID Spoofer](https://github.com/astro-services/eventus)
 
 - 🤖 How to reach me **ry6335** discord!
