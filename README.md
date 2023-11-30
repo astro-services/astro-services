@@ -8,7 +8,7 @@
 
 -  [Applications Closed](https://forms.gle/)
 
-- 👨‍💻 [Check Out Eventus Free HWID Spoofer] (https://github.com/astro-services/eventus)
+- 👨‍💻 [Check Out Eventus Free HWID Spoofer](https://github.com/astro-services/eventus)
 
 - 🤖 How to reach me **ry6335** discord!
 <p align="left">
