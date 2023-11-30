@@ -8,7 +8,7 @@
 
 -  [Applications Closed](https://forms.gle/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/astro-services](https://github.com/astro-services)
+- 👨‍💻 [Check Out Eventus Free HWID Spoofer] (https://github.com/astro-services/eventus)
 
 - 🤖 How to reach me **ry6335** discord!
 <p align="left">
