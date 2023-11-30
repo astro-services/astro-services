@@ -2,12 +2,7 @@
 <h3 align="center">Astro offers a number of services, to do with game cheats and reverse engineering.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astro-services&label=Profile%20views&color=0e75b6&style=flat" alt="astro-services" /> </p>
 
-![](https://github.com/astro-services/astro-services/assets/110514037/66b9b10d-85b5-482a-bf2b-f07e9412aed1)
-
-
-
-
-- 🔭 I’m currently working on **New CS2 Project!**
+- 🔭 I’m currently working on **Aventus Spoof**
 
 - 🌱 I’m currently  **Decompiling...**
 
